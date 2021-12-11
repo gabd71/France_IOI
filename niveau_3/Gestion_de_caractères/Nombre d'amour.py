@@ -1,3 +1,10 @@
+""" Ne pas copier se code, il est ici pour être amélioré par la communauté """
+
+#TODO à commenter
+
+
+# récuperation des variables
+
 def amour(nom):
     res = 0
     for i in nom:
